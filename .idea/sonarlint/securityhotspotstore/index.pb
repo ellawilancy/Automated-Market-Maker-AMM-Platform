@@ -11,3 +11,5 @@ D
 vitest.config.js,e/0/e07f8ead7c602b60a2232e5ffe6110c6ee0d3968
 O
 contracts/fee-distribution.clar,6/0/6012b98e1354d5129a7a650d1e3983629ca9094e
+N
+tests/fee-distribution.test.ts,a/4/a4f22c239308aec8b5101848d9318a911243ea57
